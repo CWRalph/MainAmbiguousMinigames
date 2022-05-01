@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9C7FDCE-D52A-8D73-7EB0-C5296AF258F6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PCH">
+      <UniqueIdentifier>{5f5b37b3-5ef8-46b2-ac02-d950bddfd108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame1">
+      <UniqueIdentifier>{8118db7c-fb27-4e2c-8d4d-17e2b32882fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame1\Headers">
+      <UniqueIdentifier>{9a469001-14fb-4851-a030-e7879c976b0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame1\CPPs">
+      <UniqueIdentifier>{2c1018f2-5585-497d-878d-babfaf33cdb2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame1\TextFiles">
+      <UniqueIdentifier>{ebf8b394-bf4c-4594-966d-f3ade3657327}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame2">
+      <UniqueIdentifier>{34565692-f1fe-43ac-a47c-b71cd49c6939}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame2\Headers">
+      <UniqueIdentifier>{01e21b2f-3c66-4d2c-8d9f-7388222cd1b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame3">
+      <UniqueIdentifier>{fdb29260-dd0b-4ba0-98d3-6a17509f9492}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame4">
+      <UniqueIdentifier>{25fb2e34-ea64-43d9-b58c-60d38974ef5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame5">
+      <UniqueIdentifier>{f1eb6f73-1f1c-4cee-87c6-a0a8f01db91d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame6">
+      <UniqueIdentifier>{7edbdc2e-abcf-48df-ad49-c3c3071538e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame7">
+      <UniqueIdentifier>{33c217a2-e7ba-4526-b418-bf5ae39cda90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame8">
+      <UniqueIdentifier>{9c1b46c9-de88-4d7a-8774-ee0f778f360a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame9">
+      <UniqueIdentifier>{36787445-f173-4c77-a850-963c5d433066}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame10">
+      <UniqueIdentifier>{a92ad992-fb55-4591-89f9-fa01ca8450c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame3\Headers">
+      <UniqueIdentifier>{9c1f8214-0d0b-48bd-b867-43fbe445e2f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame4\Headers">
+      <UniqueIdentifier>{ac89eb5d-d9ad-428e-b963-66eb1a0637de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame5\Headers">
+      <UniqueIdentifier>{f1449098-3e76-4701-9328-6192f7b61480}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame6\Headers">
+      <UniqueIdentifier>{2ded443f-7dcb-4dd8-a0f0-aceb70a8150c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame7\Headers">
+      <UniqueIdentifier>{db3a15ac-6e74-402d-a8fb-46bff38da2fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame8\Headers">
+      <UniqueIdentifier>{0f730db9-7b25-4b17-be45-3b221a611dcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame9\Headers">
+      <UniqueIdentifier>{789467dc-0b66-4021-b136-a47615d3a7cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame10\Headers">
+      <UniqueIdentifier>{19a979fb-f94a-4bdd-a9cf-38ae9bfbd621}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame2\CPPs">
+      <UniqueIdentifier>{d6db51ce-e437-4e15-aba3-90a7f85b0c09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame3\CPPs">
+      <UniqueIdentifier>{a0cd3107-0f14-4ef5-9898-a356c7e95717}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame4\CPPs">
+      <UniqueIdentifier>{11aae496-679e-4206-975b-54f539fe7c7b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame5\CPPs">
+      <UniqueIdentifier>{c09aa87b-15dc-46f3-b82d-23d76dd251a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame6\CPPs">
+      <UniqueIdentifier>{3a21b996-7471-42a4-8e17-873e24383171}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame7\CPPs">
+      <UniqueIdentifier>{c82d3dc2-d99d-49d3-96cb-fcc78d50c0b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame8\CPPs">
+      <UniqueIdentifier>{4f46cf46-677f-43fd-bad8-7e3bd8146a0c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame9\CPPs">
+      <UniqueIdentifier>{a6a7eafd-5093-4932-a361-50dbb106c6d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame10\CPPs">
+      <UniqueIdentifier>{8eb64329-4eb2-406e-978b-eac5384b3788}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame2\TextFiles">
+      <UniqueIdentifier>{9c421728-bae1-4140-a878-26f8d95895d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame3\TextFiles">
+      <UniqueIdentifier>{6dd445ef-a7c5-4d29-876f-b0ef6fa78147}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame4\TextFiles">
+      <UniqueIdentifier>{5913d101-506c-4284-bc68-55905997752f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame5\TextFiles">
+      <UniqueIdentifier>{a2a05a15-0f6a-40eb-b8fd-26558679d879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame6\TextFiles">
+      <UniqueIdentifier>{2f94da76-8713-45e3-9de7-71a5bbc6ce69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame7\TextFiles">
+      <UniqueIdentifier>{c6e6b5db-af10-4806-82bf-69b650f422e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame8\TextFiles">
+      <UniqueIdentifier>{e784e134-20a0-494e-bfc0-15d0dedb7d65}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame9\TextFiles">
+      <UniqueIdentifier>{b69d4f64-1d70-48f3-b2ee-1cadef411ef0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Minigame10\TextFiles">
+      <UniqueIdentifier>{8a80e7c3-8421-4bab-b1a8-9da766b06671}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Libraries">
+      <UniqueIdentifier>{a0affb55-6f03-4cb4-9ff8-73fb9f75ceb7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>PCH</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame1\Player.cpp">
+      <Filter>Source Files\Minigame1\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame2\Duck.cpp">
+      <Filter>Source Files\Minigame2\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame2\PlayerDuck.cpp">
+      <Filter>Source Files\Minigame2\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame2\Foul.cpp">
+      <Filter>Source Files\Minigame2\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame4\Pig.cpp">
+      <Filter>Source Files\Minigame4\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame6\Ball.cpp">
+      <Filter>Source Files\Minigame6\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame6\Building.cpp">
+      <Filter>Source Files\Minigame6\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame6\Enemy.cpp">
+      <Filter>Source Files\Minigame6\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame6\Explosion.cpp">
+      <Filter>Source Files\Minigame6\CPPs</Filter>
+    </ClCompile>
+    <ClCompile Include="Minigame6\cPlayer.cpp">
+      <Filter>Source Files\Minigame6\CPPs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>PCH</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame1\Player.h">
+      <Filter>Source Files\Minigame1\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame2\Duck.h">
+      <Filter>Source Files\Minigame2\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame2\PlayerDuck.h">
+      <Filter>Source Files\Minigame2\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame1\Metal.h">
+      <Filter>Source Files\Minigame1\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="doublyLinkedlist.h" />
+    <ClInclude Include="Utils.h" />
+    <ClInclude Include="Minigame2\Foul.h">
+      <Filter>Source Files\Minigame2\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame4\Pig.h">
+      <Filter>Source Files\Minigame4\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame5\ffr.h">
+      <Filter>Source Files\Minigame5\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame6\Ball.h">
+      <Filter>Source Files\Minigame6\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame6\Building.h">
+      <Filter>Source Files\Minigame6\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame6\Enemy.h">
+      <Filter>Source Files\Minigame6\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame6\Explosion.h">
+      <Filter>Source Files\Minigame6\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Minigame6\cPlayer.h">
+      <Filter>Source Files\Minigame6\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
